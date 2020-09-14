@@ -8,7 +8,7 @@ message.channel.overwritePermissions(every, {
 })
  
 
-   message.channel.send(':white_small_square: **=**  **Sohbet kanalı** ``Yazılamaz`` **Haline Getirildi.**\n :white_small_square: **=** **Sohbet Kanalını Kapatmak İçin** ``-aç`` **Yazmanız Gerekmektedir.**');
+   message.channel.send(' **=**  **Sohbet kanalı** ``Yazılamaz`` **Haline Getirildi.**\n  **=** **Sohbet Kanalını Kapatmak İçin** ``-aç`` **Yazmanız Gerekmektedir.**');
 }
  
 exports.conf = {
