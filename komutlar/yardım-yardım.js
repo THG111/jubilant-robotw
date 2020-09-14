@@ -13,7 +13,7 @@ let eklenti = new Discord.RichEmbed()
 .addField(`__Sunucu Komutları__`,` \`${prefix}sunucu\` `,true)
 .addField(`__Eklenti Komutları__`,` \`${prefix}eklenti\`  `,true)
 .addField(`__Prefix Değiştir__`,` \`${prefix}prefix\` `,true)
-.addField(`__Bilgilendirme__`,` \`${prefix}davet\` | Pirate'yi Sunucunuza Davet Edersiniz\n<a:hypesquad1:750076071721828452> \`${prefix}botbilgi\` | Botun İstatistiklerini Gösterir `)
+.addField(`__Bilgilendirme__`,` \`${prefix}davet\` | Pirate'yi Sunucunuza Davet Edersiniz\n \`${prefix}botbilgi\` | Botun İstatistiklerini Gösterir `)
   .setImage(`https://i.hizliresim.com/Y7jFCB.png`)
  message.channel.send(eklenti) 
   };
