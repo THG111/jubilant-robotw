@@ -8,7 +8,7 @@ message.channel.overwritePermissions(every, {
 })
  
 
-   message.channel.send(' **=**  **Sohbet kanalı** ``Yazılamaz`` **Haline Getirildi.**\n  **=** **Sohbet Kanalını Kapatmak İçin** ``-aç`` **Yazmanız Gerekmektedir.**');
+   message.channel.send(' **  **Sohbet kanalı** ``Yazılamaz`` **Haline Getirildi.**\n  ** **Sohbet Kanalını Açmak İçin** ``-aç`` **Yazmanız Gerekmektedir.**');
 }
  
 exports.conf = {
@@ -21,6 +21,6 @@ kategori: 'sohbet',
 
 exports.help = {
   name: 'sohbet-kapat',
-  description: 'Sohbetinizi kapatmaya yarar. Açmak için !!aç.',
+  description: 'Sohbetinizi kapatmaya yarar. Açmak için -aç.',
   usage: 'kapat'
 };

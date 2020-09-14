@@ -7,7 +7,7 @@ message.channel.overwritePermissions(every, {
  
 })
 
-  message.channel.send(':white_small_square: **=** **Sohbet Kanalı** ``Görünmezden`` **Çıktı** \n:white_small_square: **=** **Sohbet Kanalını Gizli Yapmak İçin** ``-gizle`` **Yazmanız Gerekmektedir**');
+  message.channel.send(' ** **Sohbet Kanalı** ``Görünmezden`` **Çıktı** \n ** **Sohbet Kanalını Gizli Yapmak İçin** ``-gizle`` **Yazmanız Gerekmektedir**');
 }
  
 exports.conf = {

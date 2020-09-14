@@ -7,7 +7,7 @@ message.channel.overwritePermissions(every, {
  
 })
 
-  message.channel.send(':white_small_square: **=** **Sohbet Kanalı** ``Görünmez`` **Durumuna Getirildi** \n:white_small_square: **=** **Sohbet Kanalını Görülebilir Yapmak İçin** ``-gizle-kapat`` **Yazmanız Gerekmektedir**');
+  message.channel.send(' ** **Sohbet Kanalı** ``Görünmez`` **Durumuna Getirildi** \n ** **Sohbet Kanalını Görülebilir Yapmak İçin** ``-gizle-kapat`` **Yazmanız Gerekmektedir**');
 }
  
 exports.conf = {

@@ -8,7 +8,7 @@ message.channel.overwritePermissions(every, {
 })
  
 
-   message.channel.send(':white_small_square: **=**  **Sohbet kanalı** ``Yazılabilir`` **Haeline Getirildi.**\n :white_small_square: **=** **Sohbet Kanalını Kapatmak İçin** ``-kapat`` **Yazmanız Gerekmektedir.**');
+   message.channel.send(' **  **Sohbet kanalı** ``Yazılabilir`` **Haeline Getirildi.**\n  ** **Sohbet Kanalını Kapatmak İçin** ``-kapat`` **Yazmanız Gerekmektedir.**');
 }
  
 exports.conf = {
