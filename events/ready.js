@@ -9,7 +9,7 @@ module.exports = client => {
 }, 8000);
 client.user.setPresence({
         game: {
-            name: `-yardım | -davet`,
+            name: `>yardım | >davet`,
             type: 'WATCHING'   //WATCHING - İZLİYOR LISTINING - DİNLİYOR
         },
         status: 'online'   //online - Çevrimiçi idle - Boşta 
